@@ -1,52 +1,55 @@
 Teen Mental Health Analysis
+Overview
+This project analyzes how **social media usage impacts teen mental health** using real-world data.
 
-Project Overview
-This project analyzes how social media usage affects teen mental health using a dataset of 1200 individuals.
+The focus is on identifying patterns related to:
+- 📱 Social media usage  
+- 😴 Sleep patterns  
+- 😰 Stress & anxiety  
+- 🧠 Depression  
 
-The goal is to identify behavioral patterns associated with depression, stress, and anxiety.
-
-Problem Statement
-To understand the relationship between:
-- Social media usage
-- Sleep patterns
-- Stress and anxiety levels
-- Depression
+Objective
+To understand how behavioral factors influence mental health and identify key indicators associated with depression.
 
 Dataset
-- Total records: 1200
-- Features:
-  - Age, Gender
-  - Daily social media usage
-  - Sleep hours
-  - Stress & anxiety levels
-  - Depression label
+- 👥 Total records: **1200**
+- 🧠 Depressed individuals: **31 (~2.6%)**
 
-Tools Used
-- Python
-- Pandas
-- Matplotlib
+Tools & Technologies
+- Python 🐍  
+- Pandas  
+- Matplotlib  
 
- Key Analysis
-- Social media vs stress
-- Sleep vs anxiety
-- Platform usage impact
-- Behavior of depressed individuals
+ Analysis Performed
+- Social media usage vs stress  
+- Sleep vs anxiety  
+- Platform-based mental health comparison  
+- Behavioral analysis of depressed individuals  
 
 Key Insights
 
-- Out of 1200 individuals, only ~2.6% are classified as depressed.
-- All depressed individuals exhibit:
-  - High social media usage
-  - Low sleep duration (<6 hours)
-- A subset of depressed individuals also shows higher stress and anxiety levels.
-- Behavioral factors like sleep and social media usage show a stronger association with depression than academic performance.
+- 📌 Only **2.6%** of individuals are classified as depressed  
+- 📱 All depressed individuals show **high social media usage**  
+- 😴 All depressed individuals have **low sleep (<6 hours)**  
+- ⚠️ Stress and anxiety are present in some cases but not all  
+- 📊 Behavioral factors like sleep and screen time show stronger association with depression  
 
 Visualizations
-- Line charts (trend analysis)
-- Bar charts (comparisons)
-- Grouped analysis
+- 📈 Line charts for trend analysis  
+- 📊 Bar charts for comparisons  
+- 📉 Behavioral pattern analysis  
 
  Conclusion
-The analysis suggests that excessive social media usage and insufficient sleep are strongly associated with depression among teenagers.
+The analysis suggests that **excessive social media usage and lack of sleep** are strongly associated with depression among teenagers.
 
+Future Improvements
+- Build ML model to predict depression  
+- Create Power BI dashboard  
+- Perform deeper behavioral segmentation  
 
+Author
+**Hariprasad H N**
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
