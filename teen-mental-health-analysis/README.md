@@ -2,6 +2,12 @@ Teen Mental Health Analysis
 Overview
 This project analyzes how **social media usage impacts teen mental health** using real-world data.
 
+🎯 Problem Statement
+To understand the relationship between:
+- Social media usage
+- Sleep patterns
+- Stress and anxiety levels
+- Depression
 The focus is on identifying patterns related to:
 - 📱 Social media usage  
 - 😴 Sleep patterns  
